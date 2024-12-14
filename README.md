@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center;">
 
   <!-- Profile Picture -->
-  <img src="https://github.com/user-attachments/assets/e0798214-4c44-44e5-afa9-aeb95a8d63b6" alt="Profile Picture" width="150" style="margin-right: 20px; border-radius: 50%;">
+  <img src="https://github.com/user-attachments/assets/cfd3c13b-aabe-43fc-a560-8c9d0b0c45f1" alt="Profile Picture" width="150" style="margin-right: 20px; border-radius: 50%;">
 
   <!-- About Me Text -->
   <p>
