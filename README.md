@@ -8,18 +8,19 @@
 
   <!-- About Me Text -->
   <p>
-    I am a mathematician with a strong interest in advancing my career in data science and machine learning.
+    My primary research interest lies at the interface of spectral geometry and dynamical systems focusing on the spectral and dynamical invariants arising in inverse spectral theory.
     I studied under the late Steve Zelditch and later worked independently with partial guidance from Jared Wunsch
-    and Elton P. Hsu at Northwestern University. My research focuses on the spectral analysis of unitary operators
+    and Elton P. Hsu at Northwestern University. The premise of my thesis and on-going research endeavors center on the spectral analysis of unitary operators
     within the framework of Koopman-von Neumann mechanics, exploring the connections between classical integrable systems,
     ergodic theory and quantum mechanics.  
-    A key aspect of this work involves studying the Koopman operator and developing the associated inverse spectral
+    A key aspect of this work involves studying the Koopman operator of the geodesic flow on the unit phase space and developing the associated inverse spectral
     theory to determine the geometry of base manifolds.
   </p>
 
 </div>
 
 Email: hylam.math@gmail.com.
+[my CV]()
 
 ## Papers 
 - Heat-kernel method for computing flat-trace distribution on surfaces of revolution - (in preparation) 
