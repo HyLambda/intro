@@ -8,6 +8,7 @@
 
   <!-- About Me Text -->
   <p>
+    I am currently a PhD candidate at the Department of Mathematics, Northwestern University. 
     My primary research interest lies at the interface of spectral geometry and dynamical systems focusing on the spectral and dynamical invariants arising in inverse spectral theory.
     I studied under the late Steve Zelditch and later worked independently with partial guidance from Jared Wunsch
     and Elton P. Hsu at Northwestern University. The premise of my thesis and on-going research endeavors center on the spectral analysis of unitary operators
@@ -28,6 +29,28 @@ Email: hylam.math@gmail.com.
 - Flat trace distribution of the geodesic flow on compact hyperbolic plane — [arXiv](https://arxiv.org/abs/2411.11392)  
 - Non-isometric pairs of Riemannian manifolds with the same Guillemin-Ruelle zeta function — [arXiv](https://arxiv.org/abs/2208.04550) (submitted to Journal of Spectral Theory) 
 - The Replacement Property of PSL(2,p) and PSL(2,p^2) — [arXiv](https://arxiv.org/abs/1709.08745)
+
+## Teachings
+- MATH 218-2 (Single-Variable calculus with precalculus) - Fall 2019, Spring 2024
+- MATH 220-1,2 (Single variable differential calculus) - Fall 2019, Fall 2021
+- MATH 240 (Linear algebra) - Winter 2021
+- MATH 320-2,3 (Real analysis upper-division sequence) - Winter 2022
+- MATH 314 (Probability and statistics for econometrics) - Fall 2020, Fall 2023
+- MATH 382 (Complex analysis for ISP) - Winter 2022
+- MATH 366-1 (Mathematical models in finance) - Winter 2024
+- MATH 450-1,2,3 (Probability theory and stochastic analysis, graduate sequence) - Fall 2020, Winter 2021, Fall 2021, Winter 2022, Fall 2023, Winter 2024
+  
+Courses I have served as private tutor and/or grader:
+- MATH 202-0 (Finite mathematics),
+- MATH 218-1 (Single variable calculus)
+- MATH 230-1 (Multivariable differential calculus)
+- MATH 290 (Linear algebra and multivariable calculus),
+- MATH 321-1,2,3 (MENU: Real analysis)
+- MATH 311-2 (MENU: Probability and stochastic Processes)
+- MECS 560-1,2 (Static/dynamics optimization in economics)
+- MATH 445-1,2 (Graduate sequence in differential geometry)
+
+
 
 ## Data science/ML project(s)
 - My team and I gathered and analyzed sentiment from over 600+ news articles on top 20 publicly-traded companies to assess market impact. Evaluated and ranked 4 predictive models (Sentiment analysis - VADER, Linear regression - LinReg, Spearsman correlation and ARIMA/ARIMAX) in their forecasting performance on volatility parameters including traded stock volume, high/low and close prices. [project link](https://github.com/HyLambda/Sentiment_analysis_stock_dynamics), 
