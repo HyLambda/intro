@@ -20,7 +20,8 @@
 
 </div>
 
-Email: hylam.math@gmail.com.
+Email: hylam.math@gmail.com
+
 [my CV](https://github.com/user-attachments/files/18134363/CV.pdf)
 
 
