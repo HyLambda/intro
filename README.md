@@ -28,7 +28,7 @@ Email: hylam.math@gmail.com.
 - The Replacement Property of PSL(2,p) and PSL(2,p^2) — [arXiv](https://arxiv.org/abs/1709.08745)
 
 ## Data science/ML project(s)
-- My team and I gathered and analyzed sentiment from over 600+ news articles on top 20 publicly-traded companies to assess market impact. Evaluated and ranked 4 predictive models (Sentiment analysis - VADER, Linear regression - LinReg, Spearsman correlation and ARIMA/ARIMAX) in their forecasting performance on volatility parameters including traded stock volume, high/low and close prices. [project link](https://github.com/HyLambda/Sentiment_analysis_stock_dynamics) 
-  [presentation.pdf](https://github.com/user-attachments/files/18134062/Erdos_project_presentation.pdf)
+- My team and I gathered and analyzed sentiment from over 600+ news articles on top 20 publicly-traded companies to assess market impact. Evaluated and ranked 4 predictive models (Sentiment analysis - VADER, Linear regression - LinReg, Spearsman correlation and ARIMA/ARIMAX) in their forecasting performance on volatility parameters including traded stock volume, high/low and close prices. [project link](https://github.com/HyLambda/Sentiment_analysis_stock_dynamics), 
+  [project presentation.pdf](https://github.com/user-attachments/files/18134062/Erdos_project_presentation.pdf)
 
 
