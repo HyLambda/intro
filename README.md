@@ -21,7 +21,8 @@
 </div>
 
 Email: hylam.math@gmail.com.
-[my CV]()
+[my CV](https://github.com/user-attachments/files/18134363/CV.pdf)
+
 
 ## Papers 
 - Heat-kernel method for computing flat-trace distribution on surfaces of revolution - (in preparation) 
