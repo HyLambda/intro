@@ -24,7 +24,7 @@ Email: hylam.math@gmail.com
 
 [Curriculum vitae](https://github.com/user-attachments/files/18134363/CV.pdf)
 
-[Please email to request current copy of my dissertation]()
+[Please email me to request current copy of my dissertation]()
 
 ## Papers 
 - Heat-kernel method for computing flat-trace distribution on surfaces of revolution - (in preparation) 
