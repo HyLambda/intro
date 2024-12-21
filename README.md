@@ -22,7 +22,8 @@
 
 Email: hylam.math@gmail.com
 
-[Curriculum vitae](https://github.com/user-attachments/files/18134363/CV.pdf)
+[Curriculum vitae](https://github.com/user-attachments/files/18217620/CV-2.pdf)
+
 
 *Please email me to request a draft of my dissertation.* 
 
