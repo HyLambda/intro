@@ -28,7 +28,7 @@ Email: hylam.math@gmail.com
 
 ## Papers 
 - Heat-kernel method for computing flat-trace distribution on surfaces of revolution - in preparation
-- Poincare map and the Koopman dynamics on 2-step nilmanifolds - in preparation
+- Poincare map and the Koopman dynamics on Heisenberg manifolds - in preparation
 - Rigidity of flat traces on negatively curved compact 2-manifolds - in preparation
 - Flat trace distribution of the geodesic flow on compact hyperbolic plane — [arXiv](https://arxiv.org/abs/2411.11392)  
 - Non-isometric pairs of Riemannian manifolds with the same Guillemin-Ruelle zeta function — [arXiv](https://arxiv.org/abs/2208.04550) (submitted to Journal of Spectral Theory) 
