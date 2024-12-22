@@ -58,7 +58,7 @@ Courses I have served as a private tutor and/or grader:
 
 
 ## Data science/ML project(s)
-- A team-based data science research project where we gathered and analyzed sentiment from over 600+ news articles on top 20 publicly-traded companies to assess market impact. Evaluated and ranked 4 predictive models (Sentiment analysis - VADER, Linear regression - LinReg, Spearsman correlation and ARIMA/ARIMAX) in their forecasting performance on volatility parameters including traded stock volume, high/low and close prices. [project link](https://github.com/HyLambda/Sentiment_analysis_stock_dynamics), 
+- A team-based data science research project where we gathered and analyzed text data from over 600+ news articles on top 20 publicly-traded companies to assess market impact. Evaluated and ranked 4 predictive models (Sentiment analysis - VADER, Linear regression - LinReg, Spearsman correlation and ARIMA/ARIMAX) in their forecasting performance on volatility parameters including traded stock volume, high/low and close prices. [project link](https://github.com/HyLambda/Sentiment_analysis_stock_dynamics), 
   [project_presentation.pdf](https://github.com/user-attachments/files/18134062/Erdos_project_presentation.pdf)
   
 ## Hobbies 
