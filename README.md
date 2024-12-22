@@ -45,7 +45,7 @@ Email: hylam.math@gmail.com
 - MATH 366-1 (Mathematical models in finance) - Winter 2024
 - MATH 450-1,2,3 (Probability theory and stochastic analysis, graduate sequence) - Fall 2020, Winter 2021, Fall 2021, Winter 2022, Fall 2023, Winter 2024
   
-Courses I have served as private tutor and/or grader:
+Courses I have served as a private tutor and/or grader:
 - MATH 202-0 (Finite mathematics),
 - MATH 218-1 (Single variable calculus)
 - MATH 230-1 (Multivariable differential calculus)
