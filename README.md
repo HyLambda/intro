@@ -56,8 +56,8 @@ Courses I have served as a private tutor and/or grader:
 - MATH 445-1,2 (Graduate sequence in differential geometry)
 
 ## Directed reading project 
-- I mentored advanced undergraduate students on topics related to dynamical systems, functional analysis, quantum theory
-  (most recent project was done with S.J. Lee on Hamiltonian mechanics)
+- I mentored advanced undergraduate students on topics related to dynamical systems, functional analysis, quantum theory. 
+  (most recent project discussed Hamiltonian mechanics.)
   
 
 
