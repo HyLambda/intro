@@ -44,7 +44,7 @@ Courses I have taught as graduate teaching assistant and/or have served as a non
 - MATH 314 (Probability and statistics for econometrics) - Fall 2020, Fall 2023
 - MATH 382 (Complex analysis for ISP) - Winter 2022
 - MATH 366-1 (Mathematical models in finance) - Winter 2024
-- MATH 450-1,2,3 (Probability theory and stochastic analysis, graduate sequence) - Fall 2020, Winter 2021,
+- MATH 450-1,2,3 (Probability theory and stochastic analysis, graduate sequence) - Fall 2020, Winter 2021,\\
   Fall 2021, Winter 2022, Fall 2023, Winter 2024
   
   
