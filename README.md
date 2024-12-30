@@ -36,7 +36,7 @@ Email: hylam.math@gmail.com
 - The Replacement Property of PSL(2,p) and PSL(2,p^2) — [arXiv](https://arxiv.org/abs/1709.08745)
 
 ## Teachings
-Courses I have taught as graduate teaching assistant: 
+Courses I have taught as graduate teaching assistant and/or non-profit private mentor: 
 - MATH 218-2 (Single-Variable calculus with precalculus) - Fall 2019, Spring 2024
 - MATH 220-1,2 (Single variable differential calculus) - Fall 2019, Fall 2021
 - MATH 240 (Linear algebra) - Winter 2021
