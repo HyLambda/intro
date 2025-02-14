@@ -22,7 +22,8 @@
 
 Email: hylam.math@gmail.com
 
-[Curriculum Vitae](https://github.com/user-attachments/files/18792550/CV.pdf)
+[Curriculum vitae](https://github.com/user-attachments/files/18792582/CV.pdf)
+
 
 [Research statement](https://github.com/user-attachments/files/18415033/Research_statement.pdf)
 
