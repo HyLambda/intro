@@ -74,5 +74,5 @@ Courses I have served as a private tutor and/or grader:
   [project_presentation.pdf](https://github.com/user-attachments/files/18134062/Erdos_project_presentation.pdf)
   
 ## Hobbies 
-- I like learning martial arts (kickboxing) and playing chess boardgames (chess and xiangqi). 
+- I like practicing martial arts (kickboxing) and playing chess boardgames (chess and xiangqi). 
 
