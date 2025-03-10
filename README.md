@@ -15,7 +15,7 @@
     within the framework of Koopman-von Neumann mechanics, exploring the connections between classical integrable systems,
     ergodic theory and quantum mechanics.  
     A key aspect of this work involves studying the Koopman operator of geodesic flows on the unit phase spaces of compact Riemannian manifolds and developing the associated inverse spectral
-    theory.
+    theoretic framework of the underlying geometries.
   </p>
 
 </div>
