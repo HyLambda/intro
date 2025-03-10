@@ -14,7 +14,7 @@
     and Elton Pei Hsu. The premise of my thesis and on-going research endeavors center on the spectral analysis of unitary operators
     within the framework of Koopman-von Neumann mechanics, exploring the connections between classical integrable systems,
     ergodic theory and quantum mechanics.  
-    A key aspect of this work involves studying the Koopman operator of geodesic flows on the unit phase spaces of compact Riemannian manifolds and developing the associated inverse spectral
+    A key aspect of this work involves studying the Koopman operator of geodesic flows on unit phase spaces of compact Riemannian manifolds and developing the associated inverse-spectral
     theoretic framework of the underlying geometries.
   </p>
 
