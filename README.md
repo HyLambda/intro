@@ -16,8 +16,6 @@
     ergodic theory and quantum mechanics.  
     A key aspect of this work involves studying the Koopman operator of geodesic flows on unit phase spaces of compact Riemannian manifolds and developing the associated inverse-spectral
     theoretic framework of the underlying geometries.
-  </p>
-
 </div>
 
 Email: hylam.math@gmail.com
