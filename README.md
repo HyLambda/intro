@@ -10,7 +10,6 @@
   <p>
     I obtained my PhD in Mathematics from Northwestern University. 
     My primary research interest lies at the interface of spectral geometry and dynamical systems focusing on the spectral and dynamical invariants arising in inverse spectral theory.
-  </p>
     I studied under the late Steve Zelditch and later worked independently with partial guidance and morale support from Jared Wunsch
     and Elton Pei Hsu. The premise of my thesis and on-going research endeavors center on the spectral analysis of unitary operators
     within the framework of Koopman-von Neumann mechanics, exploring the connections between classical integrable systems,
