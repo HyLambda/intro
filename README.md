@@ -1,21 +1,8 @@
 # Hy P.G. Lam
 
-<div style="display: flex; align-items: center;">
-  <!-- Profile Picture -->
-  <img src="https://github.com/user-attachments/assets/346ca028-1889-4663-ac55-d31e0b46c5ff" alt="Profile Picture" width="150" style="margin-right: 20px; border-radius: 50%;">
+![Profile Picture](https://github.com/user-attachments/assets/346ca028-1889-4663-ac55-d31e0b46c5ff){: width="150" style="border-radius: 50%; float: left; margin-right: 20px;"}
 
-  <!-- About Me Text -->
-  <p>
-    I obtained my PhD in Mathematics from Northwestern University. 
-    My primary research interest lies at the interface of spectral geometry and dynamical systems, focusing on the spectral and dynamical invariants arising in inverse spectral theory.
-    I studied under the late Steve Zelditch and later worked independently with partial guidance and morale support from Jared Wunsch
-    and Elton Pei Hsu. The premise of my thesis and ongoing research endeavors centers on the spectral analysis of unitary operators
-    within the framework of Koopman-von Neumann mechanics, exploring the connections between classical integrable systems,
-    ergodic theory, and quantum mechanics.  
-    A key aspect of this work involves studying the Koopman operator of geodesic flows on unit phase spaces of compact Riemannian manifolds and developing the associated inverse-spectral
-    theoretic framework of the underlying geometries.
-  </p>
-</div>
+I obtained my PhD in Mathematics from Northwestern University. My primary research interest lies at the interface of spectral geometry and dynamical systems, focusing on the spectral and dynamical invariants arising in inverse spectral theory. I studied under the late Steve Zelditch and later worked independently with partial guidance and morale support from Jared Wunsch and Elton Pei Hsu. The premise of my thesis and ongoing research endeavors centers on the spectral analysis of unitary operators within the framework of Koopman-von Neumann mechanics, exploring the connections between classical integrable systems, ergodic theory, and quantum mechanics. A key aspect of this work involves studying the Koopman operator of geodesic flows on unit phase spaces of compact Riemannian manifolds and developing the associated inverse-spectral theoretic framework of the underlying geometries.
 
 **Email:** [hylam.math@gmail.com](mailto:hylam.math@gmail.com)  
 [Curriculum vitae](https://github.com/user-attachments/files/18792582/CV.pdf)  
