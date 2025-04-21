@@ -8,7 +8,7 @@ I obtained my PhD in Mathematics from Northwestern University. My primary resear
 [Curriculum vitae](https://github.com/user-attachments/files/18792582/CV.pdf)  
 [Research statement](https://github.com/user-attachments/files/18415033/Research_statement.pdf)  
 
-*Please email me to request a draft of my dissertation.*
+*Please email me to request a copy of my dissertation.*
 
 ---
 
