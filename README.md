@@ -64,4 +64,4 @@ I obtained my PhD in Mathematics from Northwestern University. My primary resear
 
 ## Hobbies
 
-- I enjoy practicing martial arts (kickboxing) and playing chess board games (chess and xiangqi).
+- I enjoy practicing martial arts (kickboxing) and playing chess board games (chess, xiangqi, go).
