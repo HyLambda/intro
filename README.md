@@ -1,7 +1,8 @@
 # Hy P.G. Lam
 
-![Profile Picture](https://github.com/user-attachments/assets/69504671-3d0d-4a75-901b-9dfb93cdf7c3){: width="150" style="border-radius: 50%; float: left; margin-right: 20px;"}
+%![Profile Picture](https://github.com/user-attachments/assets/69504671-3d0d-4a75-901b-9dfb93cdf7c3){: width="150" style="border-radius: 50%; float: left; margin-right: 20px;"}
 
+![Profile Picture](https://github.com/user-attachments/files/23657952/BE94DBD9-6A70-4CEC-AC4A-DD668D7CFBE2.pdf){: width="150" style="border-radius: 50%; float: left; margin-right: 20px;"}
 
 
 I obtained my PhD in Mathematics from Northwestern University. My primary research interest lies at the interface of spectral geometric analysis and dynamical systems, focusing on the spectral and dynamical invariants arising in inverse spectral theory. I studied under the late Steve Zelditch and later worked independently with partial guidance and moral support from Jared Wunsch and Elton Pei Hsu. The premise of my thesis and ongoing research endeavors centers on the spectral analysis of unitary operators within the framework of Koopman-von Neumann mechanics, exploring the connections between classical integrable systems, ergodic theory, and quantum mechanics. A key aspect of this work involves studying the Koopman operator of geodesic flows on unit phase spaces of compact Riemannian manifolds and developing the associated inverse-spectral theoretic framework of the underlying geometries.
