@@ -1,6 +1,5 @@
 # Hy P.G. Lam
 
-%![Profile Picture](https://github.com/user-attachments/assets/69504671-3d0d-4a75-901b-9dfb93cdf7c3){: width="150" style="border-radius: 50%; float: left; margin-right: 20px;"}
 
 ![Profile Picture](https://github.com/user-attachments/files/23657952/BE94DBD9-6A70-4CEC-AC4A-DD668D7CFBE2.pdf){: width="150" style="border-radius: 50%; float: left; margin-right: 20px;"}
 
