@@ -6,6 +6,8 @@
 
 I obtained my PhD in Mathematics from Northwestern University. My primary research interest lies at the interface of spectral geometric analysis and dynamical systems, focusing on the spectral and dynamical invariants arising in inverse spectral theory. I studied under the late Steve Zelditch and later worked independently with partial guidance and moral support from Jared Wunsch and Elton Pei Hsu. The premise of my thesis and ongoing research endeavors centers on the spectral analysis of unitary operators within the framework of Koopman-von Neumann mechanics, exploring the connections between classical integrable systems, ergodic theory, and quantum mechanics. A key aspect of this work involves studying the Koopman operator of geodesic flows on unit phase spaces of compact Riemannian manifolds and developing the associated inverse-spectral theoretic framework of the underlying geometries.
 
+I am currently a Research Assistant Professor of Mathematics at the Department of Mathematical Sciences, Worcester Polytechnic Institute (WPI), part of the deep-learning-focused research group led by Randy Paffenroth. 
+
 **Email:** [hylam.math@gmail.com](mailto:hylam.math@gmail.com)  
 [Curriculum vitae](https://github.com/user-attachments/files/18792582/CV.pdf)  
 [Research statement](https://github.com/user-attachments/files/18415033/Research_statement.pdf)  
