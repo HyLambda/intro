@@ -63,7 +63,7 @@ I am currently a Research Assistant Professor of Mathematics at the Department o
 
 - **DTRA Spectral Modeling and Synthetic Data Generation**:
   A DTRA-supported applied mathematics + ML project focused on learning stable, physically grounded mappings between molecular structure, operating conditions, and measured instrument response (e.g., spectra). I lead the mathematical formulation-casting the pipeline as an operator/transport + inverse problem, which then translate it into architectures and objectives that enforce invariances, identifiability, and out-of-regime generalization via hybrid physics–ML modeling and principled synthetic data/augmentation.
-  - [Project Link](classified under NDA)
+  - [Project Link](classified under NDA) classified under NDA
 
 
 - **Sentiment Analysis and Stock Dynamics**:  
