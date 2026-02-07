@@ -61,14 +61,17 @@ I am currently a Research Assistant Professor of Mathematics at the Department o
 
 ## Data Science/ML Projects
 
+- **DTRA Spectral Modeling and Synthetic Data Generation**:
+  A DTRA-supported applied mathematics + ML project focused on learning stable, physically grounded mappings between molecular structure, operating conditions, and measured instrument response (e.g., spectra). I lead the mathematical formulation-casting the pipeline as an operator/transport + inverse problem, which then translate it into architectures and objectives that enforce invariances, identifiability, and out-of-regime generalization via hybrid physics–ML modeling and principled synthetic data/augmentation.
+  - [Project Link](classified under NDA)
+
+
 - **Sentiment Analysis and Stock Dynamics**:  
   A team-based data science research project where we gathered and analyzed text data from over 600+ news articles on the top 20 publicly-traded companies to assess market impact. Evaluated and ranked 4 predictive models (Sentiment Analysis - VADER, Linear Regression - LinReg, Spearman Correlation, and ARIMA/ARIMAX) in their forecasting performance on volatility parameters, including traded stock volume, high/low, and close prices.  
   - [Project Link](https://github.com/HyLambda/Sentiment_analysis_stock_dynamics)  
   - [Project Presentation](https://github.com/user-attachments/files/18134062/Erdos_project_presentation.pdf)  
 
-- **DTRA Spectral Modeling and Synthetic Data Generation**:
-  A DTRA-supported applied mathematics + ML project focused on learning stable, physically grounded mappings between molecular structure, operating conditions, and measured instrument response (e.g., spectra). I lead the mathematical formulation-casting the pipeline as an operator/transport + inverse problem, which then translate it into architectures and objectives that enforce invariances, identifiability, and out-of-regime generalization via hybrid physics–ML modeling and principled synthetic data/augmentation.
-  - [Project Link](classified under NDA)
+
 
 ## Hobbies
 
