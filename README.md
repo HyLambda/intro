@@ -18,7 +18,9 @@ I obtained my PhD in Mathematics from Northwestern University. My primary resear
 
 - **Heat-kernel method for computing flat-trace distribution on surfaces of revolution** - *in preparation*  
 - **Koopman dynamics on Heisenberg manifolds** - *in preparation*  
-- **Rigidity of flat traces on negatively curved compact 2-manifolds** - *in preparation*  
+- **Rigidity of flat traces on negatively curved compact 2-manifolds** - *in preparation*
+- **Koopman-equivariant statistical bundle and semiclassical branching asymptotics -*in preparation*
+- **Real Bers embedding on the line: Fisher-Rao linearization, Schwarzian curvature, and scattering coordinates - [arXiv](to appear)
 - **Flat trace distribution of the geodesic flow on compact hyperbolic plane** — [arXiv](https://arxiv.org/abs/2411.11392)  
 - **Non-isometric pairs of Riemannian manifolds with the same Guillemin-Ruelle zeta function** — [arXiv](https://arxiv.org/abs/2208.04550) (submitted to *Journal of Spectral Theory*)  
 - **The Replacement Property of PSL(2,p) and PSL(2,p^2)** — [arXiv](https://arxiv.org/abs/1709.08745)  
