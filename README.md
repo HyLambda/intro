@@ -20,7 +20,7 @@ I am currently a Research Assistant Professor of Mathematics at the Department o
 
 - **Heat-kernel method for computing flat-trace distribution on surfaces of revolution** - *in preparation*  
 - **Koopman dynamics on Heisenberg manifolds** - *in preparation*  
-- **Rigidity of flat traces on negatively curved compact 2-manifolds** - *in preparation*
+- **First variation of flat traces on negatively curved sufaces** - [arXiv]()
 - **Koopman-equivariant statistical bundle and semiclassical branching asymptotics** -*in preparation*
 - **Real Bers embedding on the line: Fisher-Rao linearization, Schwarzian curvature, and scattering coordinates** - [arXiv2602.07373](https://arxiv.org/pdf/2602.07373)
 - **Flat trace distribution of the geodesic flow on compact hyperbolic plane** - [arXiv2411.11392](https://arxiv.org/abs/2411.11392)  
