@@ -23,7 +23,7 @@ I am currently a Research Assistant Professor of Mathematics at the Department o
 - **Koopman dynamics on Heisenberg manifolds** - *in preparation*
 - **Intertwining two Hardy quantizations on SO(3)** - *in preparation*
 - **Koopman-equivariant statistical bundle and semiclassical branching asymptotics** -*in preparation*
-- **Sampleability transport, nonlinear regularization, and the porous medium flow** -[]()
+- **Sampleability transport, nonlinear regularization, and the porous medium flow** -[arXiv:2604.08911](https://arxiv.org/abs/2604.08911)
 - **First variation of flat traces on negatively curved sufaces** - [arXiv2602.12230](https://arxiv.org/abs/2602.12230)
 - **Real Bers embedding on the line: Fisher-Rao linearization, Schwarzian curvature, and scattering coordinates** - [arXiv2602.07373](https://arxiv.org/pdf/2602.07373) (submitted to *Advances in Mathematics*)
 - **Flat trace distribution of the geodesic flow on compact hyperbolic plane** - [arXiv2411.11392](https://arxiv.org/abs/2411.11392)  
