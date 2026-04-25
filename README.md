@@ -31,7 +31,7 @@ I am currently a Research Assistant Professor of Mathematics at the Department o
 
 ---
 
-## Exploratory paper 
+## Exploratory papers 
 - **Sampleability transport, nonlinear regularization, and the porous medium flow** -[arXiv:2604.08911](https://arxiv.org/abs/2604.08911)
 
 
