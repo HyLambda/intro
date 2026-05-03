@@ -17,7 +17,7 @@ I am currently a Research Assistant Professor of Mathematics at the Department o
 
 ---
 
-## Papers
+## Papers (pure)
 
 - **Heat-kernel method for computing flat-trace distribution on surfaces of revolution** - *in preparation*  
 - **Koopman dynamics on Heisenberg manifolds** - *in preparation*
@@ -31,7 +31,7 @@ I am currently a Research Assistant Professor of Mathematics at the Department o
 
 ---
 
-## Exploratory papers 
+## Papers (applied)
 - **Sampleability transport, nonlinear regularization, and the porous medium flow** -[arXiv:2604.08911](https://arxiv.org/abs/2604.08911)
 
 
