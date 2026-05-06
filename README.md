@@ -33,7 +33,8 @@ I am currently a Research Assistant Professor of Mathematics at the Department o
 
 ## Papers (applied)
 - **Sampleability transport, nonlinear regularization, and the porous medium flow** -[arXiv:2604.08911](https://arxiv.org/abs/2604.08911)
-
+- **Geometry-preserving latent diffusion for synthetic ion mobility spectra** - *submitted to IEEE ICMLA 2026*
+- **Latent diffusion synthetic data for low-data IMS classification** - *submitted to Asilomar 2026*
 
 ## Teaching
 
