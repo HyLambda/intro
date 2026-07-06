@@ -69,7 +69,7 @@ I am currently a Research Assistant Professor of Mathematics at the Department o
 ## Data Science/ML Projects
 
 - **DTRA Spectral Modeling and Synthetic Data Generation**:
-  A DTRA-supported applied mathematics + ML project focused on learning stable, physically grounded mappings between molecular structure, operating conditions, and measured instrument response (e.g., spectra). I set up the mathematical problemand turn it into architectures and training schemes that generalize beyond their training data, using physics
+  A DTRA-supported applied mathematics + ML project focused on learning stable, physics-informed mappings between molecular structure, operating conditions, and measured instrument response (e.g., spectra). I set up the mathematical problemand turn it into architectures and training schemes that generalize beyond their training data, using physics
   constraints and synthetic data.
   - [Project Link](classified under NDA) classified under NDA
 
