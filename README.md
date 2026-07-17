@@ -33,7 +33,7 @@ I am currently a Research Assistant Professor of Mathematics at the Department o
 
 ## Papers (applied)
 - **Sampleability transport, nonlinear regularization, and the porous medium flow** -[arXiv:2604.08911](https://arxiv.org/abs/2604.08911)
-- **Depth-dependent hidden-state collapse in dynamical system autoencoders for LiDAR point-cloud classification** -[arXiv:2607.14463](https://arxiv.org/abs/2607.14463) (submitted to *2026 IEEE High Performance Extreme Computing Conference (HPEC 2026))
+- **Depth-dependent hidden-state collapse in dynamical system autoencoders for LiDAR point-cloud classification** -[arXiv:2607.14463](https://arxiv.org/abs/2607.14463) (submitted to *2026 IEEE High Performance Extreme Computing Conference (HPEC 2026)*)
 - **Geometry-preserving latent diffusion for synthetic ion mobility spectra** - *submitted to IEEE ICMLA 2026* (accepted)
 - **Latent diffusion synthetic data for low-data IMS classification** - *submitted to Asilomar 2026* (accepted)
 
