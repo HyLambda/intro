@@ -9,8 +9,9 @@ My primary research interest lies at the interface of spectral geometric analysi
 
 I am currently a Research Assistant Professor of Mathematics at the Department of Mathematical Sciences, Worcester Polytechnic Institute (WPI), where my position is jointly supported by the U.S. Department of Defense through the Defense Threat Reduction Agency (DTRA), as part of the deep-learning-focused research group led by [Randy Paffenroth](https://users.wpi.edu/~rcpaffenroth/?_gl=1*yywg7v*_gcl_au*MTYxNTI4MDM2OS4xNzc1NzQ5NDg1*_ga*MjMyMDU2NTE5LjE3NzQ5NzA0NDk.*_ga_RE35PKQB7J*czE3NzU3NDk0ODUkbzEkZzEkdDE3NzU3NTA4NTUkajYwJGwwJGgw).  I also serve as Co-PI for the 2025-2026 NSF MFAI Collaborative Research Proposal. 
 
-**Email:** [hylam.math@gmail.com](mailto:hylam.math@gmail.com)  
-[Curriculum vitae](https://github.com/user-attachments/files/18792582/CV.pdf)  
+**Email:** [hylam.math@gmail.com](mailto:hylam.math@gmail.com)
+  
+[Curriculum vitae](https://github.com/user-attachments/files/31274059/CV__CURRENT_.pdf)
 [Research statement](https://github.com/user-attachments/files/18415033/Research_statement.pdf)  
 
 *Please email me to request a copy of my dissertation.*
