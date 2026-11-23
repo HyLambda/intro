@@ -11,7 +11,8 @@ I am currently a Research Assistant Professor of Mathematics at the Department o
 
 **Email:** [hylam.math@gmail.com](mailto:hylam.math@gmail.com)
   
-[Curriculum vitae](https://github.com/user-attachments/files/31274059/CV__CURRENT_.pdf)
+[Curriculum vitae](https://github.com/user-attachments/files/35302921/CV_updated.pdf)
+
 
 [Research statement](https://github.com/user-attachments/files/31308937/Research_statement__long_version_.pdf)
 
